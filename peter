@@ -1,0 +1,70 @@
+[1mdiff --git a/assets/index.html b/assets/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 76ca98e..0000000[m
+[1m--- a/assets/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,23 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-  <head>[m
+[31m-    <meta charset="UTF-8" />[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+[31m-    <title>Prework Study Guide</title>[m
+[31m-  </head>[m
+[31m-  <body>[m
+[31m-    <header id="top">[m
+[31m-      <h1>Prework Study Guide</h1>[m
+[31m-      <img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." />[m
+[31m-    </header>[m
+[31m-    <main>[m
+[31m-      <!-- something -->[m
+[31m-      [m
+[31m-    </main>[m
+[31m-[m
+[31m-    <footer>[m
+[31m-      <p>I can code!</p>[m
+[31m-    </footer>[m
+[31m-  </body>[m
+[31m-</html>[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6bee21b..c933615 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -12,35 +12,7 @@[m
+       <img src="./assets/bowtie-cat.png" alt="Profile image of cat wearing a bow tie." />[m
+     </header>[m
+     <main>[m
+[31m-      <section class="card" id="html-section">[m
+[31m-        <h2>HTML</h2>[m
+[31m-        <ul>[m
+[31m-          <li>The head element contains information about the webpage.</li>[m
+[31m-          <li>The body element represents the visible content shown to the user.</li>[m
+[31m-        </ul>[m
+[31m-      </section>[m
+[31m-   [m
+[31m-      <section class="card" id="css-section">[m
+[31m-        <h2>CSS</h2>[m
+[31m-        <ul>[m
+[31m-          <li>Enter your CSS notes here</li>[m
+[31m-        </ul>[m
+[31m-      </section>[m
+[31m-   [m
+[31m-      <section class="card" id="git-section">[m
+[31m-        <h2>Git</h2>[m
+[31m-        <ul>[m
+[31m-          <li>git status: checks what branch we are currently on</li>[m
+[31m-          <li>git checkout -b branch-name: creates a new branch and switches to it</li>[m
+[31m-        </ul>[m
+[31m-      </section>[m
+[31m-   [m
+[31m-      <section class="card" id="javascript-section">[m
+[31m-        <h2>JavaScript</h2>[m
+[31m-        <ul>[m
+[31m-          <li>Enter your JavaScript notes here</li>[m
+[31m-        </ul>[m
+[31m-      </section>[m
+[32m+[m[32m      <!-- something -->[m
+       [m
+ [m
+     </main>[m
